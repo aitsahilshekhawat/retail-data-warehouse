@@ -190,7 +190,7 @@ The project contains **70+ analytical SQL queries** covering:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/retail-data-warehouse.git
+git clone https://github.com/aitsahilshekhawat/retail-data-warehouse.git
 
 cd retail-data-warehouse
 ```
@@ -290,10 +290,9 @@ Coming Soon
 
 # 👨‍💻 Author
 
-**Rayan Prabhu**
+**Sahil Shekhawat**
 
-GitHub: https://github.com/execurioushead
-
+GitHub: https://github.com/aitsahilshekhawat
 
 
 ---
